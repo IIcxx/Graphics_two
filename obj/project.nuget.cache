@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEve9KYOzzNhbXNsIgLsVPEVncGavaY8JLmdEj+rA8E474dJ4P+NZCa9INp/ylpSdl9eJsjhYc6mtkal8HcqRw==",
+  "success": true,
+  "projectFilePath": "C:\\programming folder\\Graphics_two\\Graphics_two\\Graphics_two.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viktor.karlsson1\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\viktor.karlsson1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
